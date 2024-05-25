@@ -58,4 +58,3 @@ If you encounter any issues or errors during the download process, refer to the 
 Bhanwar Lal Puniya, Ph.D.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
